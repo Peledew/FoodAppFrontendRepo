@@ -1,4 +1,4 @@
-# demo
+# FoodApp Frontend (Vue.js)
 
 ## Project setup
 ```
