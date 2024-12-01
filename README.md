@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peledew&label=Profile%20views&color=0e75b6&style=flat" alt="peledew" /> </p>
 
-- 🌱 I’m currently learning **PL/SQL**
+- 🌱 I’m currently learning **Angular & .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Peledew](https://github.com/Peledew)
 
